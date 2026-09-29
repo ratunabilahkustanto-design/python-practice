@@ -3,10 +3,10 @@ print("==============================================")
 print("              BIODATA DAN DATA SAYA")
 print("==============================================")
 
-nama = "Ratu nabilah kustanto"
+nama = "Agnia rai gina"
 kelas = "10,4"
 sekolah = "SMA PGRI CICURUG"
-hobi = "Memasak"
+hobi = "Bernyanyi"
 cita_cita = "Polwan"
 
 print("Nama          :", nama)
